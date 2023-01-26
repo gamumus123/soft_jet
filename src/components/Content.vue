@@ -38,7 +38,7 @@
       >
         <img
           alt="Party"
-          src="https://media.discordapp.net/attachments/1067804891625574440/1067844470885855293/image.png"
+          src="https://media.discordapp.net/attachments/1067804891625574440/1068146264291680266/image.png?width=716&height=642"
           class="  animate__animated   animate__fadeInTopRight absolute inset-0 h-full w-full object-cover "
         />
       </div>

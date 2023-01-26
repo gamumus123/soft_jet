@@ -9,7 +9,7 @@ import Footer from './components/Footer.vue'
         <div class="container xl:max-w-6xl mx-auto px-4">
           <div class="lg:flex lg:justify-between">
           	<div class="flex justify-between">
-	            <div class="mx-w-10 text-4xl font-bold capitalize text-gray-900 flex items-center">Jetmoneyy</div>
+	            <div class="mx-w-10 text-4xl font-bold capitalize text-gray-900 flex items-center">Jetmoney</div>
 		          
 	          </div>
             
